@@ -1,0 +1,25 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": [
+        "google"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "rules": {
+        "quotes": "off",
+        "require-jsdoc": "off",
+        "valid-jsdoc": "off",
+        "no-trailing-spaces": "off",
+        "no-unused-vars": "off",
+        "max-len": "off"
+    }
+}

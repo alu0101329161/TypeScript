@@ -1,0 +1,10 @@
+{
+    "entryPoints": [
+        "./src/ejercicio-1/combatClass.ts",
+        "./src/ejercicio-1/pokemonClass.ts",
+        "./src/ejercicio-1/pokedexClass.ts",
+        "./src/ejercicio-2/boardClass.ts",
+        "./src/ejercicio-2/playerClass.ts"
+    ],
+    "out": "./docs_jsdoc"
+}

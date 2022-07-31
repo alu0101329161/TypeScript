@@ -1,0 +1,11 @@
+{
+    "entryPoints": [
+        "./src/P10/ejercicio1/ejercicio1.ts",
+        "./src/P10/ejercicio2/catnopipegrep.ts",
+        "./src/P10/ejercicio2/catpipegrep.ts",
+        "./src/P10/ejercicio3/ejercicio3.ts",
+        "./src/P10/ejercicio4/app.ts",
+        "./src/P10/ejercicio4/comandos.ts"
+    ],
+    "out": "./typedoc"
+}

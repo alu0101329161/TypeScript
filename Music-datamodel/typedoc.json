@@ -1,0 +1,14 @@
+{
+    "entryPoints": [
+        "./src/BaseDeDatos/dbManager.ts",
+        "./src/Estructura/album.ts",
+        "./src/Estructura/artistas.ts",
+        "./src/Estructura/cancion.ts",
+        "./src/Estructura/coleccionGenerica.ts",
+        "./src/Estructura/generosMusicales.ts",
+        "./src/Estructura/grupo.ts",
+        "./src/Estructura/Interfaz.ts",
+        "./src/Estructura/playlist.ts"
+    ],
+    "out": "./typedoc"
+}

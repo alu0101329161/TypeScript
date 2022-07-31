@@ -1,0 +1,2677 @@
+{
+  "estructura": {
+    "coleccion": [
+      {
+        "genero": {
+          "nombre": "Rock",
+          "artistasGrupos": [
+            "Bayside",
+            "John Lennon",
+            "Stephen Malkmus",
+            "Gunna",
+            "AC/DC"
+          ],
+          "albumes": [
+            "Ahora soy peor",
+            "Mala vida",
+            "Tvrp House"
+          ],
+          "canciones": [
+            "Ular SciencE",
+            "Starting Over",
+            "J Smoov",
+            "P Power",
+            "Jack"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Pop",
+          "artistasGrupos": [
+            "Bayside",
+            "Mesita",
+            "Breach",
+            "Iron Maiden",
+            "The Beatles",
+            "Pink Floyd"
+          ],
+          "albumes": [
+            "Sin City"
+          ],
+          "canciones": [
+            "Jack Rabbit",
+            "K",
+            "M.vlopp",
+            "Kali Ma",
+            "Ndael",
+            "Pacer"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Trap",
+          "artistasGrupos": [
+            "George Harrison",
+            "Paul McCartney",
+            "Breach",
+            "AC/DC",
+            "Pink Floyd",
+            "The Beatles",
+            "Queen"
+          ],
+          "albumes": [
+            "Tvrp Housing",
+            "Las mamis saben bien rico",
+            "Ahora soy peor"
+          ],
+          "canciones": [
+            "Jack",
+            "Ndael",
+            "Karate Chop",
+            "Kate",
+            "Pacific Rim",
+            "Pack Up",
+            "Pacer"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Metal",
+          "artistasGrupos": [
+            "Bayside",
+            "John Lennon",
+            "Gunna",
+            "Duki",
+            "AC/DC",
+            "Pink Floyd"
+          ],
+          "albumes": [
+            "Ahora soy peor",
+            "Mala vida",
+            "Tvrp House",
+            "Tvrp Housing"
+          ],
+          "canciones": [
+            "LOVE",
+            "L.A.",
+            "La Rosa",
+            "La La",
+            "La Di Da Di",
+            "Karate Chop"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Drill",
+          "artistasGrupos": [
+            "Paul McCartney",
+            "Breach",
+            "Duki",
+            "Pink Floyd",
+            "Queen"
+          ],
+          "albumes": [
+            "Las mamis saben bien rico",
+            "Tvrp Housing"
+          ],
+          "canciones": [
+            "Jack Rabbit",
+            "Lady Black",
+            "La Turra Rica",
+            "R.I.C.O.",
+            "R.A.T.S",
+            "R.A.F."
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "K-pop",
+          "artistasGrupos": [
+            "John Lennon",
+            "George Harrison",
+            "Mesita",
+            "The Beatles",
+            "Iron Maiden"
+          ],
+          "albumes": [
+            "Mala vida",
+            "Sin City",
+            "La calle es MALA"
+          ],
+          "canciones": [
+            "M",
+            "Mamasita Sabrosa",
+            "So Strong",
+            "Glad To Be Gay",
+            "$(dollar sign)"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Jazz",
+          "artistasGrupos": [
+            "Bayside",
+            "Gunna",
+            "Mesita",
+            "Duki",
+            "AC/DC",
+            "Iron Maiden"
+          ],
+          "albumes": [
+            "Hola bby",
+            "Ahora soy peor",
+            "Sin City",
+            "La calle es MALA",
+            "Tvrp House",
+            "Tvrp Housing"
+          ],
+          "canciones": [
+            "M",
+            "M79",
+            "Ma and Pa",
+            "S.A.D",
+            "Bad Tattoo",
+            "S&M"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Country",
+          "artistasGrupos": [
+            "John Lennon",
+            "Stephen Malkmus",
+            "Breach",
+            "Mesita",
+            "Queen",
+            "Iron Maiden"
+          ],
+          "albumes": [
+            "Mala vida",
+            "Sin City",
+            "La calle es MALA",
+            "Las mamis saben bien rico"
+          ],
+          "canciones": [
+            "Mamon Loco",
+            "No Mames Wey",
+            "The Monkees",
+            "is the Damn Season",
+            "Til Kingdom Come",
+            "Nashii"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Rap",
+          "artistasGrupos": [
+            "Bayside",
+            "Paul McCartney",
+            "Duki",
+            "Pink Floyd",
+            "Iron Maiden"
+          ],
+          "albumes": [
+            "Hola bby",
+            "Sin City",
+            "Tvrp Housing"
+          ],
+          "canciones": [
+            "Na na na Batman",
+            "Nashii",
+            "U Got the Look",
+            "U Get Me High",
+            "U 2 Luv"
+          ]
+        }
+      },
+      {
+        "genero": {
+          "nombre": "Flamenco",
+          "artistasGrupos": [
+            "Stephen Malkmus",
+            "Gunna",
+            "Breach",
+            "The Beatles",
+            "AC/DC"
+          ],
+          "albumes": [
+            "Mala vida",
+            "Sin City",
+            "Las mamis saben bien rico"
+          ],
+          "canciones": [
+            "S.O.S",
+            "Sad Angel",
+            "Vacancy",
+            "V.E.N.O.M",
+            "V-2 Schneider"
+          ]
+        }
+      }
+    ]
+  },
+  "playList": {
+    "coleccion": [
+      {
+        "playlist": {
+          "nombre": "La mandanga",
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Ular SciencE",
+                  "autor": "Bayside",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 4
+                  },
+                  "generos": [
+                    "Pop",
+                    "Rock"
+                  ],
+                  "single": true,
+                  "reproducciones": 200
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "J Smoov",
+                  "autor": "Stephen Malkmus",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 50
+                  },
+                  "generos": [
+                    "Rock"
+                  ],
+                  "single": true,
+                  "reproducciones": 5000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Pack Up",
+                  "autor": "Paul McCartney",
+                  "duracion": {
+                    "min": 6,
+                    "seg": 35
+                  },
+                  "generos": [
+                    "Trap"
+                  ],
+                  "single": true,
+                  "reproducciones": 123
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "The Monkees",
+                  "autor": "Mesita",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 11
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 98756
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La Turra Rica",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 33
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 555555
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "S.A.D",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 32
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 10
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Na na na Batman",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 10
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": true,
+                  "reproducciones": 76244
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La La",
+                  "autor": "Bayside",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 47
+                  },
+                  "generos": [
+                    "Metal"
+                  ],
+                  "single": true,
+                  "reproducciones": 77650
+                }
+              }
+            ]
+          },
+          "duracion": {
+            "hor": 0,
+            "min": 24
+          },
+          "generos": [
+            "Pop",
+            "Rock",
+            "Trap",
+            "Country",
+            "Drill",
+            "Jazz",
+            "Rap",
+            "Metal"
+          ],
+          "creador": "SYSTEM"
+        }
+      },
+      {
+        "playlist": {
+          "nombre": "Amor y Odio",
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Pacific Rim",
+                  "autor": "George Harrison",
+                  "duracion": {
+                    "min": 7,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Trap"
+                  ],
+                  "single": true,
+                  "reproducciones": 210
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "R.I.C.O.",
+                  "autor": "Paul McCartney",
+                  "duracion": {
+                    "min": 12,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 990
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Mamon Loco",
+                  "autor": "Queen",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 18762
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "The Monkees",
+                  "autor": "Mesita",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 11
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 98756
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Karate Chop",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 32
+                  },
+                  "generos": [
+                    "Trap",
+                    "Metal"
+                  ],
+                  "single": false,
+                  "reproducciones": 5460
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Kate",
+                  "autor": "Queen",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 22
+                  },
+                  "generos": [
+                    "Trap"
+                  ],
+                  "single": false,
+                  "reproducciones": 5320
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Starting Over",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 40
+                  },
+                  "generos": [
+                    "Rock"
+                  ],
+                  "single": false,
+                  "reproducciones": 10000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "U 2 Luv",
+                  "autor": "Paul McCartney",
+                  "duracion": {
+                    "min": 6,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": true,
+                  "reproducciones": 11723
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "V.E.N.O.M",
+                  "autor": "Stephen Malkmus",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 23
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": true,
+                  "reproducciones": 14567
+                }
+              }
+            ]
+          },
+          "duracion": {
+            "hor": 0,
+            "min": 38
+          },
+          "generos": [
+            "Trap",
+            "Drill",
+            "Country",
+            "Metal",
+            "Rock",
+            "Rap",
+            "Flamenco"
+          ],
+          "creador": "SYSTEM"
+        }
+      },
+      {
+        "playlist": {
+          "nombre": "Los de Socorro",
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "S.A.D",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 32
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 10
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "U Get Me High",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 5,
+                    "seg": 23
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": false,
+                  "reproducciones": 20201
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La Turra Rica",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 33
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 555555
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Karate Chop",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 32
+                  },
+                  "generos": [
+                    "Trap",
+                    "Metal"
+                  ],
+                  "single": false,
+                  "reproducciones": 5460
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Starting Over",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 40
+                  },
+                  "generos": [
+                    "Rock"
+                  ],
+                  "single": false,
+                  "reproducciones": 10000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "R.A.F.",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 8,
+                    "seg": 11
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": false,
+                  "reproducciones": 2348
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "V-2 Schneider",
+                  "autor": "Gunna",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": false,
+                  "reproducciones": 120000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "No Mames Wey",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 354978
+                }
+              }
+            ]
+          },
+          "duracion": {
+            "hor": 0,
+            "min": 28
+          },
+          "generos": [
+            "Jazz",
+            "Rap",
+            "Drill",
+            "Trap",
+            "Metal",
+            "Rock",
+            "Flamenco",
+            "Country"
+          ],
+          "creador": "SYSTEM"
+        }
+      }
+    ]
+  },
+  "autores": {
+    "coleccion": [
+      {
+        "grupo": {
+          "nombre": "AC/DC",
+          "artistas": [
+            "Bayside",
+            "John Lennon"
+          ],
+          "fechaCreacion": 2008,
+          "generos": [
+            "Rock",
+            "Trap",
+            "Metal",
+            "Jazz",
+            "Flamenco"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Ahora soy peor",
+                  "autor": "AC/DC",
+                  "fechaPublicacion": 2060,
+                  "generos": [
+                    "Rock",
+                    "Trap",
+                    "Flamenco",
+                    "Jazz",
+                    "Metal"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "Sad Angel",
+                          "autor": "AC/DC",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 38
+                          },
+                          "generos": [
+                            "Flamenco"
+                          ],
+                          "single": false,
+                          "reproducciones": 93821
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "M79",
+                          "autor": "AC/DC",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 30
+                          },
+                          "generos": [
+                            "Jazz"
+                          ],
+                          "single": false,
+                          "reproducciones": 12
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "La Rosa",
+                          "autor": "AC/DC",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 15
+                          },
+                          "generos": [
+                            "Metal"
+                          ],
+                          "single": false,
+                          "reproducciones": 2111
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Jack",
+                          "autor": "AC/DC",
+                          "duracion": {
+                            "min": 4,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "Rock",
+                            "Trap"
+                          ],
+                          "single": false,
+                          "reproducciones": 50000
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Sad Angel",
+                  "autor": "AC/DC",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 38
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": false,
+                  "reproducciones": 93821
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "M79",
+                  "autor": "AC/DC",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 12
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La Rosa",
+                  "autor": "AC/DC",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Metal"
+                  ],
+                  "single": false,
+                  "reproducciones": 2111
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Jack",
+                  "autor": "AC/DC",
+                  "duracion": {
+                    "min": 4,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "Rock",
+                    "Trap"
+                  ],
+                  "single": false,
+                  "reproducciones": 50000
+                }
+              }
+            ]
+          },
+          "oyentes": 300
+        }
+      },
+      {
+        "grupo": {
+          "nombre": "Pink Floyd",
+          "artistas": [
+            "Stephen Malkmus",
+            "Gunna"
+          ],
+          "fechaCreacion": 2012,
+          "generos": [
+            "Pop",
+            "Trap",
+            "Drill",
+            "Metal",
+            "Rap"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Deyavuu",
+                  "autor": "Pink Floyd",
+                  "fechaPublicacion": 2120,
+                  "generos": [
+                    "Pop",
+                    "Trap",
+                    "Drill",
+                    "Metal",
+                    "Rap"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "Na na na Batman",
+                          "autor": "Pink Floyd",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 10
+                          },
+                          "generos": [
+                            "Rap"
+                          ],
+                          "single": true,
+                          "reproducciones": 76244
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "La Turra Rica",
+                          "autor": "Pink Floyd",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 33
+                          },
+                          "generos": [
+                            "Drill"
+                          ],
+                          "single": true,
+                          "reproducciones": 555555
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "LOVE",
+                          "autor": "Pink Floyd",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 52
+                          },
+                          "generos": [
+                            "Metal"
+                          ],
+                          "single": true,
+                          "reproducciones": 2458
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Pacer",
+                          "autor": "Pink Floyd",
+                          "duracion": {
+                            "min": 5,
+                            "seg": 67
+                          },
+                          "generos": [
+                            "Pop",
+                            "Trap"
+                          ],
+                          "single": true,
+                          "reproducciones": 1245
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Na na na Batman",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 10
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": true,
+                  "reproducciones": 76244
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La Turra Rica",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 33
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 555555
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "LOVE",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 52
+                  },
+                  "generos": [
+                    "Metal"
+                  ],
+                  "single": true,
+                  "reproducciones": 2458
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Pacer",
+                  "autor": "Pink Floyd",
+                  "duracion": {
+                    "min": 5,
+                    "seg": 67
+                  },
+                  "generos": [
+                    "Pop",
+                    "Trap"
+                  ],
+                  "single": true,
+                  "reproducciones": 1245
+                }
+              }
+            ]
+          },
+          "oyentes": 500
+        }
+      },
+      {
+        "grupo": {
+          "nombre": "The Beatles",
+          "artistas": [
+            "George Harrison",
+            "Paul McCartney"
+          ],
+          "fechaCreacion": 2005,
+          "generos": [
+            "Pop",
+            "Trap",
+            "K-pop",
+            "Flamenco"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "olala mama",
+                  "autor": "The Beatles",
+                  "fechaPublicacion": 2009,
+                  "generos": [
+                    "Pop",
+                    "Trap",
+                    "K-pop",
+                    "Flamenco"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "M.vlopp",
+                          "autor": "The Beatles",
+                          "duracion": {
+                            "min": 7,
+                            "seg": 15
+                          },
+                          "generos": [
+                            "Pop"
+                          ],
+                          "single": true,
+                          "reproducciones": 210
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Ndael",
+                          "autor": "The Beatles",
+                          "duracion": {
+                            "min": 12,
+                            "seg": 23
+                          },
+                          "generos": [
+                            "Pop",
+                            "Trap"
+                          ],
+                          "single": true,
+                          "reproducciones": 56700
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Mamasita Sabrosa",
+                          "autor": "The Beatles",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 9
+                          },
+                          "generos": [
+                            "K-pop"
+                          ],
+                          "single": true,
+                          "reproducciones": 54235
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "S.O.S",
+                          "autor": "The Beatles",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 29
+                          },
+                          "generos": [
+                            "Flamenco"
+                          ],
+                          "single": true,
+                          "reproducciones": 45334
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "M.vlopp",
+                  "autor": "The Beatles",
+                  "duracion": {
+                    "min": 7,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Pop"
+                  ],
+                  "single": true,
+                  "reproducciones": 210
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Ndael",
+                  "autor": "The Beatles",
+                  "duracion": {
+                    "min": 12,
+                    "seg": 23
+                  },
+                  "generos": [
+                    "Pop",
+                    "Trap"
+                  ],
+                  "single": true,
+                  "reproducciones": 56700
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Mamasita Sabrosa",
+                  "autor": "The Beatles",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 9
+                  },
+                  "generos": [
+                    "K-pop"
+                  ],
+                  "single": true,
+                  "reproducciones": 54235
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "S.O.S",
+                  "autor": "The Beatles",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 29
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": true,
+                  "reproducciones": 45334
+                }
+              }
+            ]
+          },
+          "oyentes": 700
+        }
+      },
+      {
+        "grupo": {
+          "nombre": "Queen",
+          "artistas": [
+            "John Lennon",
+            "Breach"
+          ],
+          "fechaCreacion": 1865,
+          "generos": [
+            "Trap",
+            "Drill",
+            "Country"
+          ],
+          "albumes": {
+            "coleccion": []
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Mamon Loco",
+                  "autor": "Queen",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 18762
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Lady Black",
+                  "autor": "Queen",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 29
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": false,
+                  "reproducciones": 220012
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Kate",
+                  "autor": "Queen",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 22
+                  },
+                  "generos": [
+                    "Trap"
+                  ],
+                  "single": false,
+                  "reproducciones": 5320
+                }
+              }
+            ]
+          },
+          "oyentes": 900
+        }
+      },
+      {
+        "grupo": {
+          "nombre": "Iron Maiden",
+          "artistas": [
+            "Mesita",
+            "Duki"
+          ],
+          "fechaCreacion": 2060,
+          "generos": [
+            "Pop",
+            "Jazz",
+            "K-pop",
+            "Rap",
+            "Country"
+          ],
+          "albumes": {
+            "coleccion": []
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "K",
+                  "autor": "Iron Maiden",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 34
+                  },
+                  "generos": [
+                    "Pop"
+                  ],
+                  "single": false,
+                  "reproducciones": 100
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "M",
+                  "autor": "Iron Maiden",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 49
+                  },
+                  "generos": [
+                    "K-pop",
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 44412
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Nashii",
+                  "autor": "Iron Maiden",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 45
+                  },
+                  "generos": [
+                    "Rap",
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 93821
+                }
+              }
+            ]
+          },
+          "oyentes": 1100
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Bayside",
+          "grupos": [
+            "AC/DC"
+          ],
+          "generos": [
+            "Pop",
+            "Rock",
+            "Metal",
+            "Jazz",
+            "Rap"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Hola bby",
+                  "autor": "Bayside",
+                  "fechaPublicacion": 2000,
+                  "generos": [
+                    "Pop",
+                    "Rock",
+                    "Metal",
+                    "Jazz",
+                    "Rap"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "U Got the Look",
+                          "autor": "Bayside",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 2
+                          },
+                          "generos": [
+                            "Rap"
+                          ],
+                          "single": false,
+                          "reproducciones": 75420
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "S&M",
+                          "autor": "Bayside",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 15
+                          },
+                          "generos": [
+                            "Jazz"
+                          ],
+                          "single": false,
+                          "reproducciones": 1213234
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Ular SciencE",
+                          "autor": "Bayside",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 4
+                          },
+                          "generos": [
+                            "Pop",
+                            "Rock"
+                          ],
+                          "single": true,
+                          "reproducciones": 200
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "La La",
+                          "autor": "Bayside",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 47
+                          },
+                          "generos": [
+                            "Metal"
+                          ],
+                          "single": true,
+                          "reproducciones": 77650
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "U Got the Look",
+                  "autor": "Bayside",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 2
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": false,
+                  "reproducciones": 75420
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "S&M",
+                  "autor": "Bayside",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 1213234
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Ular SciencE",
+                  "autor": "Bayside",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 4
+                  },
+                  "generos": [
+                    "Pop",
+                    "Rock"
+                  ],
+                  "single": true,
+                  "reproducciones": 200
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La La",
+                  "autor": "Bayside",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 47
+                  },
+                  "generos": [
+                    "Metal"
+                  ],
+                  "single": true,
+                  "reproducciones": 77650
+                }
+              }
+            ]
+          },
+          "oyentes": 500
+        }
+      },
+      {
+        "artista": {
+          "nombre": "John Lennon",
+          "grupos": [
+            "AC/DC",
+            "Queen"
+          ],
+          "generos": [
+            "Rock",
+            "Metal",
+            "K-pop",
+            "Country"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Mala vida",
+                  "autor": "John Lennon",
+                  "fechaPublicacion": 2001,
+                  "generos": [
+                    "Country",
+                    "K-pop",
+                    "Metal",
+                    "Rock"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "No Mames Wey",
+                          "autor": "John Lennon",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 15
+                          },
+                          "generos": [
+                            "Country"
+                          ],
+                          "single": false,
+                          "reproducciones": 354978
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "$(dollar sign)",
+                          "autor": "John Lennon",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "K-pop"
+                          ],
+                          "single": false,
+                          "reproducciones": 3232
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "La Di Da Di",
+                          "autor": "John Lennon",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 22
+                          },
+                          "generos": [
+                            "Metal"
+                          ],
+                          "single": false,
+                          "reproducciones": 3456
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Starting Over",
+                          "autor": "John Lennon",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 40
+                          },
+                          "generos": [
+                            "Rock"
+                          ],
+                          "single": false,
+                          "reproducciones": 10000
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "No Mames Wey",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 354978
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "$(dollar sign)",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "K-pop"
+                  ],
+                  "single": false,
+                  "reproducciones": 3232
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "La Di Da Di",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 22
+                  },
+                  "generos": [
+                    "Metal"
+                  ],
+                  "single": false,
+                  "reproducciones": 3456
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Starting Over",
+                  "autor": "John Lennon",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 40
+                  },
+                  "generos": [
+                    "Rock"
+                  ],
+                  "single": false,
+                  "reproducciones": 10000
+                }
+              }
+            ]
+          },
+          "oyentes": 12098
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Stephen Malkmus",
+          "grupos": [
+            "Pink Floyd"
+          ],
+          "generos": [
+            "Rock",
+            "Country",
+            "Flamenco"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Amazing",
+                  "autor": "Stephen Malkmus",
+                  "fechaPublicacion": 2002,
+                  "generos": [
+                    "Rock",
+                    "Country",
+                    "Flamenco"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "J Smoov",
+                          "autor": "Stephen Malkmus",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 50
+                          },
+                          "generos": [
+                            "Rock"
+                          ],
+                          "single": true,
+                          "reproducciones": 5000
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Til Kingdom Come",
+                          "autor": "Stephen Malkmus",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "Country"
+                          ],
+                          "single": true,
+                          "reproducciones": 2340
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "V.E.N.O.M",
+                          "autor": "Stephen Malkmus",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 23
+                          },
+                          "generos": [
+                            "Flamenco"
+                          ],
+                          "single": true,
+                          "reproducciones": 14567
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "J Smoov",
+                  "autor": "Stephen Malkmus",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 50
+                  },
+                  "generos": [
+                    "Rock"
+                  ],
+                  "single": true,
+                  "reproducciones": 5000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Til Kingdom Come",
+                  "autor": "Stephen Malkmus",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": true,
+                  "reproducciones": 2340
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "V.E.N.O.M",
+                  "autor": "Stephen Malkmus",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 23
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": true,
+                  "reproducciones": 14567
+                }
+              }
+            ]
+          },
+          "oyentes": 111111
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Gunna",
+          "grupos": [
+            "Pink Floyd"
+          ],
+          "generos": [
+            "Rock",
+            "Metal",
+            "Jazz",
+            "Flamenco"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Tvrp House",
+                  "autor": "Gunna",
+                  "fechaPublicacion": 1990,
+                  "generos": [
+                    "Rock",
+                    "Metal",
+                    "Jazz",
+                    "Flamenco"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "P Power",
+                          "autor": "Gunna",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 4
+                          },
+                          "generos": [
+                            "Rock"
+                          ],
+                          "single": false,
+                          "reproducciones": 200
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "V-2 Schneider",
+                          "autor": "Gunna",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 30
+                          },
+                          "generos": [
+                            "Flamenco"
+                          ],
+                          "single": false,
+                          "reproducciones": 120000
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "L.A.",
+                          "autor": "Gunna",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 5
+                          },
+                          "generos": [
+                            "Metal"
+                          ],
+                          "single": true,
+                          "reproducciones": 23478
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Bad Tattoo",
+                          "autor": "Gunna",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 22
+                          },
+                          "generos": [
+                            "Jazz"
+                          ],
+                          "single": true,
+                          "reproducciones": 777700
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "P Power",
+                  "autor": "Gunna",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 4
+                  },
+                  "generos": [
+                    "Rock"
+                  ],
+                  "single": false,
+                  "reproducciones": 200
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "V-2 Schneider",
+                  "autor": "Gunna",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": false,
+                  "reproducciones": 120000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "L.A.",
+                  "autor": "Gunna",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 5
+                  },
+                  "generos": [
+                    "Metal"
+                  ],
+                  "single": true,
+                  "reproducciones": 23478
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Bad Tattoo",
+                  "autor": "Gunna",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 22
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": true,
+                  "reproducciones": 777700
+                }
+              }
+            ]
+          },
+          "oyentes": 12411
+        }
+      },
+      {
+        "artista": {
+          "nombre": "George Harrison",
+          "grupos": [
+            "The Beatles"
+          ],
+          "generos": [
+            "Trap",
+            "K-pop"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Alakaba",
+                  "autor": "George Harrison",
+                  "fechaPublicacion": 2112,
+                  "generos": [
+                    "Trap",
+                    "K-pop"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "Pacific Rim",
+                          "autor": "George Harrison",
+                          "duracion": {
+                            "min": 7,
+                            "seg": 15
+                          },
+                          "generos": [
+                            "Trap"
+                          ],
+                          "single": true,
+                          "reproducciones": 210
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Glad To Be Gay",
+                          "autor": "George Harrison",
+                          "duracion": {
+                            "min": 10,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "K-pop"
+                          ],
+                          "single": true,
+                          "reproducciones": 778900
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Pacific Rim",
+                  "autor": "George Harrison",
+                  "duracion": {
+                    "min": 7,
+                    "seg": 15
+                  },
+                  "generos": [
+                    "Trap"
+                  ],
+                  "single": true,
+                  "reproducciones": 210
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Glad To Be Gay",
+                  "autor": "George Harrison",
+                  "duracion": {
+                    "min": 10,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "K-pop"
+                  ],
+                  "single": true,
+                  "reproducciones": 778900
+                }
+              }
+            ]
+          },
+          "oyentes": 3456
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Paul McCartney",
+          "grupos": [
+            "The Beatles"
+          ],
+          "generos": [
+            "Trap",
+            "Drill",
+            "Rap"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Efimero",
+                  "autor": "Paul McCartney",
+                  "fechaPublicacion": 2005,
+                  "generos": [
+                    "Trap",
+                    "Drill",
+                    "Rap"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "Pack Up",
+                          "autor": "Paul McCartney",
+                          "duracion": {
+                            "min": 6,
+                            "seg": 35
+                          },
+                          "generos": [
+                            "Trap"
+                          ],
+                          "single": true,
+                          "reproducciones": 123
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "R.I.C.O.",
+                          "autor": "Paul McCartney",
+                          "duracion": {
+                            "min": 12,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "Drill"
+                          ],
+                          "single": true,
+                          "reproducciones": 990
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "U 2 Luv",
+                          "autor": "Paul McCartney",
+                          "duracion": {
+                            "min": 6,
+                            "seg": 30
+                          },
+                          "generos": [
+                            "Rap"
+                          ],
+                          "single": true,
+                          "reproducciones": 11723
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Pack Up",
+                  "autor": "Paul McCartney",
+                  "duracion": {
+                    "min": 6,
+                    "seg": 35
+                  },
+                  "generos": [
+                    "Trap"
+                  ],
+                  "single": true,
+                  "reproducciones": 123
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "R.I.C.O.",
+                  "autor": "Paul McCartney",
+                  "duracion": {
+                    "min": 12,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 990
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "U 2 Luv",
+                  "autor": "Paul McCartney",
+                  "duracion": {
+                    "min": 6,
+                    "seg": 30
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": true,
+                  "reproducciones": 11723
+                }
+              }
+            ]
+          },
+          "oyentes": 1200
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Breach",
+          "grupos": [
+            "Queen"
+          ],
+          "generos": [
+            "Pop",
+            "Drill",
+            "Country",
+            "Flamenco"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Arroba",
+                  "autor": "Breach",
+                  "fechaPublicacion": 2006,
+                  "generos": [
+                    "Pop",
+                    "Drill",
+                    "Country",
+                    "Flamenco"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "Jack Rabbit",
+                          "autor": "Breach",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 45
+                          },
+                          "generos": [
+                            "Pop",
+                            "Drill"
+                          ],
+                          "single": true,
+                          "reproducciones": 20500
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "R.A.T.S",
+                          "autor": "Breach",
+                          "duracion": {
+                            "min": 10,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "Drill"
+                          ],
+                          "single": true,
+                          "reproducciones": 111000
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "is the Damn Season",
+                          "autor": "Breach",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 20
+                          },
+                          "generos": [
+                            "Country"
+                          ],
+                          "single": true,
+                          "reproducciones": 918273
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Vacancy",
+                          "autor": "Breach",
+                          "duracion": {
+                            "min": 9,
+                            "seg": 2
+                          },
+                          "generos": [
+                            "Flamenco"
+                          ],
+                          "single": true,
+                          "reproducciones": 2341
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Jack Rabbit",
+                  "autor": "Breach",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 45
+                  },
+                  "generos": [
+                    "Pop",
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 20500
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "R.A.T.S",
+                  "autor": "Breach",
+                  "duracion": {
+                    "min": 10,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": true,
+                  "reproducciones": 111000
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "is the Damn Season",
+                  "autor": "Breach",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 20
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": true,
+                  "reproducciones": 918273
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Vacancy",
+                  "autor": "Breach",
+                  "duracion": {
+                    "min": 9,
+                    "seg": 2
+                  },
+                  "generos": [
+                    "Flamenco"
+                  ],
+                  "single": true,
+                  "reproducciones": 2341
+                }
+              }
+            ]
+          },
+          "oyentes": 1234
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Mesita",
+          "grupos": [
+            "Iron Maiden"
+          ],
+          "generos": [
+            "Pop",
+            "Jazz",
+            "Country",
+            "K-pop"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "La calle es MALA",
+                  "autor": "Mesita",
+                  "fechaPublicacion": 2020,
+                  "generos": [
+                    "Pop",
+                    "Jazz",
+                    "Country",
+                    "K-pop"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "So Strong",
+                          "autor": "Mesita",
+                          "duracion": {
+                            "min": 11,
+                            "seg": 55
+                          },
+                          "generos": [
+                            "K-pop"
+                          ],
+                          "single": false,
+                          "reproducciones": 6565
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Ma and Pa",
+                          "autor": "Mesita",
+                          "duracion": {
+                            "min": 3,
+                            "seg": 1
+                          },
+                          "generos": [
+                            "Jazz"
+                          ],
+                          "single": false,
+                          "reproducciones": 23598
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "The Monkees",
+                          "autor": "Mesita",
+                          "duracion": {
+                            "min": 2,
+                            "seg": 11
+                          },
+                          "generos": [
+                            "Country"
+                          ],
+                          "single": false,
+                          "reproducciones": 98756
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "Kali Ma",
+                          "autor": "Mesita",
+                          "duracion": {
+                            "min": 5,
+                            "seg": 0
+                          },
+                          "generos": [
+                            "Pop"
+                          ],
+                          "single": true,
+                          "reproducciones": 234000
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "So Strong",
+                  "autor": "Mesita",
+                  "duracion": {
+                    "min": 11,
+                    "seg": 55
+                  },
+                  "generos": [
+                    "K-pop"
+                  ],
+                  "single": false,
+                  "reproducciones": 6565
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Ma and Pa",
+                  "autor": "Mesita",
+                  "duracion": {
+                    "min": 3,
+                    "seg": 1
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 23598
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "The Monkees",
+                  "autor": "Mesita",
+                  "duracion": {
+                    "min": 2,
+                    "seg": 11
+                  },
+                  "generos": [
+                    "Country"
+                  ],
+                  "single": false,
+                  "reproducciones": 98756
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "Kali Ma",
+                  "autor": "Mesita",
+                  "duracion": {
+                    "min": 5,
+                    "seg": 0
+                  },
+                  "generos": [
+                    "Pop"
+                  ],
+                  "single": true,
+                  "reproducciones": 234000
+                }
+              }
+            ]
+          },
+          "oyentes": 4567
+        }
+      },
+      {
+        "artista": {
+          "nombre": "Duki",
+          "grupos": [
+            "Iron Maiden"
+          ],
+          "generos": [
+            "Trap",
+            "Drill",
+            "Metal",
+            "Jazz",
+            "Rap"
+          ],
+          "albumes": {
+            "coleccion": [
+              {
+                "album": {
+                  "nombre": "Tvrp Housing",
+                  "autor": "Duki",
+                  "fechaPublicacion": 2012,
+                  "generos": [
+                    "Trap",
+                    "Drill",
+                    "Metal",
+                    "Jazz",
+                    "Rap"
+                  ],
+                  "canciones": {
+                    "coleccion": [
+                      {
+                        "cancion": {
+                          "nombre": "Karate Chop",
+                          "autor": "Duki",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 32
+                          },
+                          "generos": [
+                            "Trap",
+                            "Metal"
+                          ],
+                          "single": false,
+                          "reproducciones": 5460
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "R.A.F.",
+                          "autor": "Duki",
+                          "duracion": {
+                            "min": 8,
+                            "seg": 11
+                          },
+                          "generos": [
+                            "Drill"
+                          ],
+                          "single": false,
+                          "reproducciones": 2348
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "S.A.D",
+                          "autor": "Duki",
+                          "duracion": {
+                            "min": 1,
+                            "seg": 32
+                          },
+                          "generos": [
+                            "Jazz"
+                          ],
+                          "single": false,
+                          "reproducciones": 10
+                        }
+                      },
+                      {
+                        "cancion": {
+                          "nombre": "U Get Me High",
+                          "autor": "Duki",
+                          "duracion": {
+                            "min": 5,
+                            "seg": 23
+                          },
+                          "generos": [
+                            "Rap"
+                          ],
+                          "single": false,
+                          "reproducciones": 20201
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "canciones": {
+            "coleccion": [
+              {
+                "cancion": {
+                  "nombre": "Karate Chop",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 32
+                  },
+                  "generos": [
+                    "Trap",
+                    "Metal"
+                  ],
+                  "single": false,
+                  "reproducciones": 5460
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "R.A.F.",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 8,
+                    "seg": 11
+                  },
+                  "generos": [
+                    "Drill"
+                  ],
+                  "single": false,
+                  "reproducciones": 2348
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "S.A.D",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 1,
+                    "seg": 32
+                  },
+                  "generos": [
+                    "Jazz"
+                  ],
+                  "single": false,
+                  "reproducciones": 10
+                }
+              },
+              {
+                "cancion": {
+                  "nombre": "U Get Me High",
+                  "autor": "Duki",
+                  "duracion": {
+                    "min": 5,
+                    "seg": 23
+                  },
+                  "generos": [
+                    "Rap"
+                  ],
+                  "single": false,
+                  "reproducciones": 20201
+                }
+              }
+            ]
+          },
+          "oyentes": 123
+        }
+      }
+    ]
+  }
+}

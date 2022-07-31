@@ -1,0 +1,9 @@
+{
+    "entryPoints": [
+        "./src/Notas/notas.ts",
+        "./src/Notas/manejarNotas.ts",
+        "./src/Notas/interfaz.ts",
+        "./src/Notas/imprimirNota.ts"
+    ],
+    "out": "./typedoc"
+}

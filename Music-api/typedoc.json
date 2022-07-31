@@ -1,0 +1,23 @@
+{
+    "entryPoints": [
+        "./src/db/mongoose.ts",
+        "./src/models/artista.ts",
+        "./src/models/cancion.ts",
+        "./src/models/playlist.ts",
+        "./src/routers/artista/artistaDelete.ts",
+        "./src/routers/cancion/cancionDelete.ts",
+        "./src/routers/playlist/playlistDelete.ts",
+        "./src/routers/artista/artistaGet.ts",
+        "./src/routers/cancion/cancionGet.ts",
+        "./src/routers/playlist/playlistGet.ts",
+        "./src/routers/artista/artistaPatch.ts",
+        "./src/routers/cancion/cancionPatch.ts",
+        "./src/routers/playlist/playlistPatch.ts",
+        "./src/routers/artista/artistaPost.ts",
+        "./src/routers/cancion/cancionPost.ts",
+        "./src/routers/playlist/playlistPost.ts",
+        "./src/routers/default.ts",
+        "./src/tiposDatos/duracionTipo.ts"
+    ],
+    "out": "./typedoc"
+}

@@ -1,0 +1,11 @@
+{
+    "entryPoints": [
+        "./src/P11/cliente/cliente.ts",
+        "./src/P11/cliente/clienteemitter.ts",
+        "./src/P11/cliente/clienteinterfaz.ts",
+        "./src/P11/servidor/servidor.ts",
+        "./src/P11/servidor/servidoremitter.ts",
+        "./src/P11/peticiontype.ts"
+    ],
+    "out": "./typedoc"
+}

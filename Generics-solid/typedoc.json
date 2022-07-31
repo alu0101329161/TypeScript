@@ -1,0 +1,20 @@
+{
+    "entryPoints": [
+        "./src/ejercicio-1/combatClass.ts",
+        "./src/ejercicio-1/pokemonClass.ts",
+        "./src/ejercicio-1/pokedexClass.ts",
+        "./src/ejercicio-1/dcClass.ts",
+        "./src/ejercicio-1/dragonballClass.ts",
+        "./src/ejercicio-1/fighterClass.ts",
+        "./src/ejercicio-1/marvelClass.ts",
+        "./src/ejercicio-1/starwarsClass.ts",
+        "./src/ejercicio-2/seriesClass.ts",
+        "./src/ejercicio-2/peliculasClass.ts",
+        "./src/ejercicio-2/documentalesClass.ts",
+        "./src/ejercicio-2/basicstreamcollectionClass.ts",
+        "./src/ejercicio-3/cifradoabstractClass.ts",
+        "./src/ejercicio-3/cifradoClass.ts",
+        "./src/ejercicio-3/descifradoClass.ts"
+    ],
+    "out": "./docs_jsdoc"
+}
